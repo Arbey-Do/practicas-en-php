@@ -16,9 +16,3 @@ Yo recomendaría este curso para cualquiera que este apenas iniciando en el mund
 ## Sobre el entorno para poder probar los ejemplos
 
 No se necesita nada mas que algún entorno de servidor local para desarrollo como XAMPP o Laragon que incorpore una versión de PHP desde la versión 7 en adelante y un servidor de bases de datos mysql.
-
----
-
-## Adicional a las practicas
-
-También comparto un `cheatsheet` o más bien las notas que tomé mientras me pasaba el curso sobre algunas de las funciones más comúnes en PHP y datos que pueden ser de importancia o que puedan servir como referencia al desarrollar proyectos que involucren PHP y un poco de Frontend.
