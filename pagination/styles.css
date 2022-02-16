@@ -55,7 +55,6 @@ h1 {
 	background: #C8C8C8;
 	display: inline-block;
 	padding: 15px 25px;
-	/*Para qué sirve cursor not allowed*/
 	cursor: not-allowed;
 	color: #FFF;
 	text-decoration: none;
